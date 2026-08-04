@@ -2,7 +2,7 @@
 
 Cloud and DevOps engineer based in London.
 
-I have more than six years of experience in cloud security and DevOps, working with Azure, AWS and Google Cloud across security, networking, infrastructure as code and CI/CD.
+I have more than six years of experience in cloud and DevOps, working with Azure, AWS and Google Cloud across security, networking, infrastructure as code and CI/CD.
 
 I’m now applying that experience to trustworthy automation and AI systems.
 
